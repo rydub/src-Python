@@ -1,0 +1,1 @@
+This is a collection of python src. It is from a programming paradigms course @ UCB. It also contains SQL and Scheme source, because the collections are too small to warrant their own repo for the time being.
